@@ -32,7 +32,7 @@ There were 3 main algorithms we experimented with:
 2. ResNet50
 3. Pose Detection 
 
-The one that yielded the most accuracy was the InceptionV3 model, with an accuracy of 97%. Thus, we ranked 12th overall out of 200+ teams. The ResNet50 yielded an accuracy of 91.8%, and the pose detection with 88%. 
+The one that yielded the most accuracy was the InceptionV3 model, with an accuracy of 97% (dataslayer-slemanfaiz.ipynb). Thus, we ranked 12th overall out of 200+ teams. The ResNet50 yielded an accuracy of 91.8% (ResNet50.ipynb), and the pose detection with 88% (pose-detection.ipynb). 
 
 # Running Our Notebooks
 The notebook can be run in any environment you would like. Make sure to adjust the directory of your dataset and install all the necessary dependencies. 
