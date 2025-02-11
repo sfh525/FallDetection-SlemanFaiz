@@ -22,7 +22,7 @@ The given dataset has two main folders: train and test. The test dataset is used
 
 # The Team
 Our team SlemanFaiz consists of 3 people: 
-1. Tristan Khayru Abiyudha, as Team Leader
+1. Tristan Khayru Abiyudha, as Team Leader (Github @greyalters)
 2. Salman Faiz Hidayat, as Member
 3. Adam Maulana Haq, as Member
 
